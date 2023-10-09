@@ -46,15 +46,15 @@
 
   "number_of_inters_to_show": 2,
   
-  "onesignal_id": "xxxxxxx",
+  "onesignal_id": "4f4c501b-3273-4d28-9e3b-c78c0e54fddf",
   
 
   "guides": [
 	{
-	 "image": "xxxx",
-	 "title": "00",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	 "image": "https://iili.io/J3FmMua.webp",
+	 "title": "nextbot mod for Gmod 1",
+	 "text": "evelop a NextBot mod that introduces a zombie horde to GMod.",
+	 "text_two": "",
 
 	 "url": "https://modyolo.com/games",
 
@@ -66,10 +66,10 @@
 
 	},
 	{
-	 "image": "xxxx",
-	 "title": "11",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	 "image": "https://iili.io/J3FmEyg.webp",
+	 "title": "nextbot mod for Gmod 2",
+	 "text": "Customize the zombies to have different abilities, such as sprinting, climbing, or breaking through barriers.",
+	 "text_two": "",
 
 	 "url": "https://modyolo.com/games",
 
@@ -81,10 +81,10 @@
 	 
 	},
 	{
-	 "image": "xxxx",
-	 "title": "22",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	 "image": "https://iili.io/J3Fm0a1.webp",
+	 "title": "nextbot mod for Gmod 3",
+	 "text": "Implement a system where the zombies can infect players, turning them into zombies as well.",
+	 "text_two": "",
 
 	 "url": "https://modyolo.com/games",
 
@@ -96,10 +96,10 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "33",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	"image": "https://iili.io/J3Fm18F.webp",
+	 "title": "nextbot mod for Gmod 4",
+	 "text": "Create a storyline where a group of advanced AI robots rebels against their creators.",
+	 "text_two": "",
 
 	 "url": "https://modyolo.com/games",
 
@@ -111,10 +111,10 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "44",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	"image": "https://iili.io/J3Fml3P.webp",
+	 "title": "nextbot mod for Gmod 5",
+	 "text": "Design a variety of robot types, each with unique abilities and attack patterns.",
+	 "text_two": "",
 
 	 "url": "https://modyolo.com/games",
 
@@ -126,10 +126,10 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "55",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	"image": "https://iili.io/J2b7qhX.webp",
+	 "title": "nextbot mod for Gmod 6",
+	 "text": "Allow players to either fight against the robot uprising or join the robots in their quest for dominance.",
+	 "text_two": "",
 
 	 "url": "https://modyolo.com/games",
 
